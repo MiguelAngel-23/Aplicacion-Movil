@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Aplicacion_Movil_MAMC'
